@@ -1,0 +1,24 @@
+﻿<Window x:Class="TV_Show_ReNamer.EditFileNames"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TV_Show_ReNamer"
+        mc:Ignorable="d"
+        Title="EditFileNames" Height="592" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Edit Videos Names" FontSize="33" VerticalAlignment="Top"/>
+        <Button Content="Finished" FontSize="20" HorizontalAlignment="Right" Margin="0,10,10,0" VerticalAlignment="Top" Width="172" Height="44" Click="Finished"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="25,72,0,0" TextAlignment="Left" TextWrapping="Wrap" Text="File Location" FontSize="15" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Center" Height="23" Margin="0,72,0,0" TextAlignment="Center" TextWrapping="Wrap" Text="File Name" FontSize="15" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Right" Height="23" Margin="0,72,35,0" TextAlignment="Right" TextWrapping="Wrap" Text="Video Title" FontSize="15" VerticalAlignment="Top" Width="120"/>
+
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" Margin="0,100,0,0">
+            <Grid Name="VideoPanel">
+                
+            </Grid>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

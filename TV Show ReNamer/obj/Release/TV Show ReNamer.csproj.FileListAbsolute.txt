@@ -1,0 +1,22 @@
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Release\YourFlix TV Show ReNamer.exe
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Release\YourFlix TV Show ReNamer.pdb
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Release\taglib-sharp.dll
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\TV Show ReNamer.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\CompleteMessage.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\EditFileNames.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\MainWindow.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\App.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\YourFlix TV Show ReNamer_MarkupCompile.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\YourFlix TV Show ReNamer_MarkupCompile.lref
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\CompleteMessage.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\EditFileNames.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\MainWindow.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\YourFlix TV Show ReNamer.g.resources
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\TV_Show_ReNamer.Properties.Resources.resources
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\TV Show ReNamer.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\TV Show ReNamer.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\TV Show ReNamer.csproj.CopyComplete
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\YourFlix TV Show ReNamer.exe
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Release\YourFlix TV Show ReNamer.pdb

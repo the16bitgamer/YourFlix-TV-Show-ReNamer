@@ -1,0 +1,22 @@
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\MainWindow.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\App.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\MainWindow.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV_Show_ReNamer.Properties.Resources.resources
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.CopyComplete
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Debug\taglib-sharp.dll
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\EditFileNames.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\EditFileNames.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\CompleteMessage.g.cs
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\CompleteMessage.baml
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Debug\YourFlix TV Show ReNamer.exe
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\bin\Debug\YourFlix TV Show ReNamer.pdb
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer_MarkupCompile.cache
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer_MarkupCompile.lref
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.g.resources
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.exe
+C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.pdb
