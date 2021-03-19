@@ -20,3 +20,25 @@ C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix T
 C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.g.resources
 C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.exe
 C:\Users\Andre\source\repos\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.pdb
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\bin\Debug\YourFlix TV Show ReNamer.exe
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\bin\Debug\YourFlix TV Show ReNamer.pdb
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\bin\Debug\taglib-sharp.dll
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\bin\Debug\policy.2.0.taglib-sharp.config
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csprojAssemblyReference.cache
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\CompleteMessage.g.cs
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\EditFileNames.g.cs
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\MainWindow.g.cs
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\App.g.cs
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer_MarkupCompile.cache
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer_MarkupCompile.lref
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\CompleteMessage.baml
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\EditFileNames.baml
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\MainWindow.baml
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.g.resources
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV_Show_ReNamer.Properties.Resources.resources
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.GenerateResource.cache
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.CoreCompileInputs.cache
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\TV Show ReNamer.csproj.CopyComplete
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.exe
+F:\16 Bit Git Repro\TV Show ReNamer\TV Show ReNamer\obj\Debug\YourFlix TV Show ReNamer.pdb
